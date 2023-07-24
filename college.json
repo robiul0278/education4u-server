@@ -1,0 +1,33 @@
+[
+    {
+      "image": "https://i.ibb.co/4NpB1sX/BAF-Shaheen-College-Chattogram2.jpg",
+      "name": "Bogra Cantonment Public College",
+      "research_history":"This college has a research history marked by significant achievements, with a research count of 200. While they excel in various fields, their focus on academic excellence has led to notable contributions in research and education",
+      "rating": 4.8,
+      "admission_date": "July 2023",
+      "research_count": 200,
+      "events": ["Graduation Day", "Literary Fest", "Health Camp"],
+      "sports": ["Rugby", "Hockey", "Athletics"]
+    },
+    {
+      "image": "https://i.ibb.co/BnzXF8t/govt-hazi-mohammad-mohsin-college2.jpg",
+      "name": "Hazi Mohammad mohsin college",
+      "research_history":"Though relatively newer, Hazi Mohammad Mohsin College has made commendable progress in research, with a research count of 130. They strive for excellence and have begun making their mark in the academic community with promising contributions",
+      "rating": 4.0,
+      "admission_date": "November 2023",
+      "research_count": 130,
+      "events": ["Sports Carnival", "Tech Symposium", "Cultural Fest"],
+      "sports": ["Baseball", "Golf", "Chess"]
+    },
+    {
+      "image": "https://i.ibb.co/yNXdYm7/Government-College-of-Commerce2.jpg",
+      "name": "Government College of Commerce",
+      "research_history":"With a research count of 90, Government College of Commerce has also shown dedication to advancing knowledge and academic accomplishments. Their commitment to research has helped them establish a notable presence in the academic landscape",
+      "rating": 4.3,
+      "admission_date": "December 2023",
+      "research_count": 90,
+      "events": ["Sports Carnival", "Tech Symposium", "Cultural Fest"],
+      "sports": ["Baseball", "Golf", "Chess"]
+    }
+  ]
+  
